@@ -1,2 +1,2 @@
 # frontend_coding
-This is music.fy projecy
+This is music.fy project
